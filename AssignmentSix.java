@@ -1,17 +1,3 @@
-# <p>**JAVA ASSIGNMENT**<p>
-# <p>06 Switch Statement<p>
-# <p>Let's Practice: Text-based Adventure<p>
-## <p>**Interactive Exercise: Ultimate Adventure Game**<p>
-## **Objective:**
-### <p>In this exercise, you will create an Ultimate Adventure Game program in Java.<p>
-## **Problem Statement:**
-### <p>Create an adventure game in Java using only switch-case statements.<p>
-### <p>1️. Present a welcome message and clearly state the player's objective.<p>
-### <p>2️. Ask the player to make choices at each scenario.<p>
-### <p>3️. Navigate through different scenarios based on choices.<p>
-### <p>4️. Clearly handle invalid choices by displaying appropriate messages.<p>
-### <p>5️. End the game when the player finds the treasure or encounters a trap.<p>
-```
 import java.util.Scanner;
 public class AssignmentSix {
     public static void main(String[] args) {
@@ -94,4 +80,5 @@ public class AssignmentSix {
 
         }           
     }
-```
+
+    
